@@ -38,7 +38,6 @@
          url('../fonts/poppins-v20-latin-700.svg#Poppins') format('svg'); /* Legacy iOS */
   }
 body{
-    width: 100%;
     font-family: 'Poppins';
     font-weight: 700;
     color: #34313D;
@@ -232,7 +231,6 @@ a{
 }
 
 .id__wrapper {
-    position: absolute;
     padding: 52px;
     margin: 0 12px;
     max-width: 1140px;
