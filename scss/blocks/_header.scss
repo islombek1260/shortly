@@ -51,8 +51,13 @@
         display: block;
     }
     .header-nav__list{
+        width: 80%;
         flex-direction: column;
         align-items: center;
+        border-bottom:  #9E9AA8 solid 2px;
+    }
+    .border{
+        border: none;
     }
     .header-nav__item{
         margin: 15px auto;

@@ -13,7 +13,7 @@
 .hero-box__theme{
     font-size: 80px;
     line-height: 90px;
-    letter-spacing: -5px;
+    letter-spacing: -2px;
 }
 .hero-box__commit{
     color: #9E9AA8;
@@ -74,9 +74,13 @@
     }
     .hero-box{
         margin: 0 auto;
-        padding: 500px 0 208px;
+        padding: 500px 0 50px;
     }
     .hero-box__theme{
-        font-size: 67px;
+        font-size: 60px;
+        margin: 15px 0;
     }    
+    .hero-box__commit{
+        margin-bottom: 32px;
+    }
 }
